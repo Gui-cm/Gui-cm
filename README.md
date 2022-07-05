@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Guilherme C Moraes</h1>
 
-<img align="right" src="https://github.com/Gui-cm/Gui-cm/blob/master/undraw_programming_2svr.svg" width="370"/>
+<img align="right" src="https://github.com/Gui-cm/Gui-cm/blob/main/undraw_programming_2svr.svg" width="370"/>
 
 <br><br>
 
@@ -37,8 +37,8 @@
 ## 👨🏽‍💻 &nbsp;Social Links
 
 <a target="_blank" href="https://www.linkedin.com/in/guilhermecmoraes/">
-  <img align="left" alt="Linkedin" width="40px" src="https://github.com/Gui-cm/Gui-cm/blob/master/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="40px" src="https://github.com/Gui-cm/Gui-cm/blob/main/linkedin.svg" />
 </a>
 <a target="_blank" href="mailto:guilherme.castilho@outlook.com">
-  <img align="left" alt="Gmail" width="40px" src="https://github.com/Gui-cm/Gui-cm/blob/master/gmail.svg" />
+  <img align="left" alt="Gmail" width="40px" src="https://github.com/Gui-cm/Gui-cm/blob/main/gmail.svg" />
 </a>

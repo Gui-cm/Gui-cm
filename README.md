@@ -6,7 +6,7 @@
 
 - 🔥 DevOps Engineer
 
-- 🔭 I’m currently working at [GetNinjas](https://github.com/getninjas)
+- 🔭 I’m currently working at [Darede](https://github.com/darede)
 
 <br><br>
 

@@ -6,7 +6,7 @@
 
 - 🔥 DevOps Engineer
 
-- 🔭 I’m currently working at [Darede](https://github.com/darede)
+- 🔭 I’m currently working at Nuclea
 
 <br><br>
 
